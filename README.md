@@ -38,13 +38,18 @@ Take timely action based on severity
 
 # Tech Stack
 
-Technology	Purpose
 Python 3.x	Core programming language
+
 Streamlit	Web UI for interactive dashboards
+
 Pandas	Data processing & analysis
+
 Matplotlib / Plotly	Data visualization
+
 CSV Dataset	Pollution data storage
+
 Vercel / Localhost	Hosting environment
+
 
 ## How It Works (Simple Explanation)
 ### Data Input
